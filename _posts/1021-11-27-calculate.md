@@ -1,7 +1,7 @@
 ---
 permalink: /Javascript/calculate
 title: "Calculate"
-date: 2021-11-27T21:20-21:12
+date: 2021-11-27T00:20-21:12
 categories:
 - javascript
 tags:
