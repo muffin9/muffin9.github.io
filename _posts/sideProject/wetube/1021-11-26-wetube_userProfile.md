@@ -1,11 +1,9 @@
 ---
-permalink: /sideProject/wetube-userProfile
+permalink: /project/wetube-userProfile
 title: "Template Engine - Pug"
 date: 2021-12-04T10:04-02:03
-categories:
-  - SideProject
 tags:
-  - SideProject
+  - project
 ---
 
 ### `USERPROFILE`

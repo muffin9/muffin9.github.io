@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: "en-US"
-title: "Muffin's Blog"
+locale: "ko-KR"
+title: "머핀의 코드 가게"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "Muffin"
+name: "Muffin(SeongJin)"
 description: "An amazing website."
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://muffin9@github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -33,7 +33,7 @@ comments:
   provider: "disqus"
   # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname: "https-Muffin9-github-io"
+    shortname: "https-muffin9-github-io"
   discourse:
     server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -104,7 +104,7 @@ analytics:
 author:
   name: "Muffin"
   avatar: "assets/image/profile.png"
-  bio: "Better than Yesterday"
+  bio: "학습한 내용을 정리하여 지식을 나누는걸 좋아합니다. <br>소통 언제나 환영이에요!"
   location: "Republic of Korea"
   email:
   links:
@@ -215,6 +215,11 @@ paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+permalink: /:project/:title/
+paginate: 10 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -244,6 +249,9 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
+project_archive:
+  type: liquid
+  path: /project/
 tag_archive:
   type: liquid
   path: /tags/

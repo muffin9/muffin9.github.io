@@ -1,11 +1,9 @@
 ---
-permalink: /sideProject/wetube-pug
+permalink: /project/wetube-pug
 title: "Template Engine - Pug"
 date: 2021-11-26T09:11-08:01
-categories:
-  - SideProject
 tags:
-  - SideProject
+  - project
 ---
 
 ### `Template Engine - Pug`

@@ -1,11 +1,9 @@
 ---
-permalink: /sideProject/wetube-controller
+permalink: /project/wetube-controller
 title: "Wetube-Controller"
 date: 2021-11-26T09:11-08:01
-categories:
-  - SideProject
 tags:
-  - SideProject
+  - project
 ---
 
 Express 서버를 구축하면서 Router와 Controller단을 분리하였는데 이번에는 데이터베이스를 사용하기 전에 가짜 객체를 생성하여 Controller를 구축하고 get post 라우터에서 컨트롤러함수를 핸들러로 등록하여 테스트를 진행해보았다.
