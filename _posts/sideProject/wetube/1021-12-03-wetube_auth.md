@@ -1,9 +1,9 @@
 ---
-permalink: /project/wetube-auth
+permalink: /wetube/wetube-auth
 title: "Wetube-Authentication"
 date: 2021-12-02T04:12-04:08
-tags:
-  - project
+categories:
+  - wetube
 ---
 
 ### USER AUTHENTICATION

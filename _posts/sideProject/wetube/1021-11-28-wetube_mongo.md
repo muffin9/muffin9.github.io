@@ -1,9 +1,9 @@
 ---
-permalink: /project/wetube-mongo
+permalink: /wetube/wetube-mongo
 title: "Wetube-MongoDB"
 date: 2021-11-28T00:11-02:11
-tags:
-  - project
+categories:
+  - wetube
 ---
 
 ### `MongoDB`

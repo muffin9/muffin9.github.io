@@ -1,9 +1,9 @@
 ---
-permalink: /project/wetube-webpack
+permalink: /wetube/wetube-webpack
 title: "Webpack"
 date: 2021-12-04T13:13-14:02
-tags:
-  - project
+categories:
+  - wetube
 ---
 
 ## WebPack ?

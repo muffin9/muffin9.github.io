@@ -1,10 +1,8 @@
 ---
-permalink: /Javascript/calculate
+permalink: /javascript/calculate
 title: "Calculate"
 date: 2021-11-27T00:20-21:12
 categories:
-  - javascript
-tags:
   - javascript
 ---
 
@@ -20,7 +18,7 @@ html단에서는 0~9숫자, 연산자(+, -, \*, /, %), 소수점에 해당되는
 
 뭐.. css쪽은 따로 인터렉션한 디자인은 아니여서 간단하게 구현했다.
 
-핵심부분은 javascript이므로 자바스크립트 코드만 정리해보았다. (전체코드는 개인 github에 있습니다.) [https://github.com/Jinlog9/javascript-calculator](https://github.com/Jinlog9/javascript-calculator)
+핵심부분은 javascript이므로 자바스크립트 코드만 정리해보았다. (전체코드는 개인 github에 있습니다.) [https://github.com/muffin9/javascript-calculator](https://github.com/muffin9/javascript-calculator)
 
 ```javascript
 // JS code Start

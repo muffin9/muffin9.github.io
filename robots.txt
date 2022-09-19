@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jinlog9.github.io/sitemap.xml
+Sitemap: https://muffin9.github.io/sitemap.xml

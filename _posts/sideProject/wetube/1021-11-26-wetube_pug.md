@@ -1,9 +1,9 @@
 ---
-permalink: /project/wetube-pug
+permalink: /wetube/wetube-pug
 title: "Template Engine - Pug"
 date: 2021-11-26T09:11-08:01
-tags:
-  - project
+categories:
+  - wetube
 ---
 
 ### `Template Engine - Pug`
