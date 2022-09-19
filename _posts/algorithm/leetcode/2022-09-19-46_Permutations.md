@@ -3,7 +3,9 @@ permalink: /leetcode/permutations
 title: "Permutations"
 last_modified_at: 2022-05-07T17:11-03:02
 categories:
-  - leetcode
+    - leetcode
+tags:
+    - recur
 ---
 
 ## Permutations

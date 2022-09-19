@@ -5,7 +5,7 @@ last_modified_at: 2022-05-07T17:13-03:02
 categories:
   - leetcode
 tags:
-  - recur
+  - [recur]
 ---
 
 ## Combinations

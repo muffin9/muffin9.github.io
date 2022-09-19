@@ -1,0 +1,23 @@
+.categories {
+    &-item--title {
+        color: $category-title;
+    }
+
+    &-item--category {
+        margin-right: 5px;
+        margin-bottom: 8px;
+        padding: 3px 8px;
+        text-decoration: none;
+        border: 1px solid $category-item-border;
+        border-radius: 6px;
+        background-color: $category-item-bg;
+        color: $category-item;
+    }
+
+    &-item--tag {
+        padding: 3px 8px;
+        border-radius: 6px;
+        background-color: $category-tag-bg;
+        color: $category-item;
+    }
+}
