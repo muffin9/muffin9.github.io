@@ -2,8 +2,7 @@
 permalink: /javascript/carousel
 title: "Carousel Slide"
 date: 2021-11-21T20:12-14:22
-categories:
-  - javascript
+categories: Javascript
 ---
 
 ### `Carousel Slide`

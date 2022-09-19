@@ -7,5 +7,5 @@ sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.squadMap %}
+{% assign posts = site.categories.SquadMap %}
 {% for post in posts %} {% include categories.html type=page.entries_layout %} {% endfor %}

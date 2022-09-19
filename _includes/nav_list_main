@@ -18,7 +18,7 @@
                 <!--Cpp 카테고리 글들을 모아둔 페이지인 /categories/cpp 주소의 글로 링크 연결-->
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
                 {% for category in site.categories %}
-                    {% if category[0] == "javascript" %}
+                    {% if category[0] == "Javascript" %}
                         <li><a href="/categories/javascript" class="">JavaScript ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
@@ -26,33 +26,33 @@
         <span class="nav__sub-title">Algorithm</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "boj" %}
+                    {% if category[0] == "Boj" %}
                         <li><a href="/categories/boj" class="">BOJ ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "programmers" %}
+                    {% if category[0] == "Programmers" %}
                         <li><a href="/categories/programmers" class="">Programmers ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "leetcode" %}
+                    {% if category[0] == "Leetcode" %}
                         <li><a href="/categories/leetcode" class="">LeetCode ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
         <span class="nav__sub-title">Project</span>
                 {% for category in site.categories %}
-                    {% if category[0] == "wetube" %}
+                    {% if category[0] == "Wetube" %}
                         <li><a href="/categories/wetube" class="">Wetube ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
                 {% for category in site.categories %}
-                    {% if category[0] == "squadMap" %}
+                    {% if category[0] == "SquadMap" %}
                         <li><a href="/categories/squadMap" class="">squadMap ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}

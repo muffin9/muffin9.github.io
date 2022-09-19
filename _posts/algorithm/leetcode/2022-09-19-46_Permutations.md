@@ -1,11 +1,15 @@
 ---
 permalink: /leetcode/permutations
 title: "Permutations"
-last_modified_at: 2022-05-07T17:11-03:02
-categories:
-    - leetcode
-tags:
-    - recur
+categories: Leetcode
+tags: Recur
+
+toc: true
+toc_sticky: true
+
+
+date: 2022-05-07
+last_modified_at: 2020-05-07
 ---
 
 ## Permutations
@@ -51,6 +55,7 @@ var permute = function(nums) {
     return result;
 };
 ```
+
 
 문제에서 주어진 고유 정수가 담긴 배열을 input값으로 준다고 했으니 따로 중복처리는 생각할 필요없이 배열에 계속 다음에 올 수 있는 수를 담는 형식으로 재귀를 돌려 문제를 풀었다.
 

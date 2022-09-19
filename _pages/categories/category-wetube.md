@@ -7,5 +7,5 @@ sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.wetube %}
+{% assign posts = site.categories.Wetube %}
 {% for post in posts %} {% include categories.html type=page.entries_layout %} {% endfor %}

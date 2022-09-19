@@ -2,8 +2,7 @@
 permalink: /javascript/calculate
 title: "Calculate"
 date: 2021-11-27T00:20-21:12
-categories:
-  - javascript
+categories: Javascript
 ---
 
 ### `자바스크립트로 계산기를`
