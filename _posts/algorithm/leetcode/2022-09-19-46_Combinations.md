@@ -1,9 +1,15 @@
 ---
 permalink: /leetcode/combinations
 title: "Combinations"
-last_modified_at: 2022-05-07T17:13-03:02
 categories: Leetcode
 tags: Recur
+
+toc: true
+toc_sticky: true
+
+
+date: 2022-05-07
+last_modified_at: 2020-05-07
 ---
 
 ## Combinations
