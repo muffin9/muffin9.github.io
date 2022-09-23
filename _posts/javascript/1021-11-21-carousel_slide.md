@@ -1,8 +1,15 @@
 ---
 permalink: /javascript/carousel
 title: "Carousel Slide"
-date: 2021-11-21T20:12-14:22
 categories: Javascript
+tags: JavaScript
+
+toc: true
+toc_sticky: true
+
+
+date: 2022-04-22
+last_modified_at: 2020-04-22
 ---
 
 ### `Carousel Slide`

@@ -1,8 +1,16 @@
 ---
 permalink: /javascript/calculate
 title: "Calculate"
-date: 2021-11-27T00:20-21:12
 categories: Javascript
+
+tags: JavaScript
+
+toc: true
+toc_sticky: true
+
+
+date: 2022-04-25
+last_modified_at: 2020-04-25
 ---
 
 ### `자바스크립트로 계산기를`

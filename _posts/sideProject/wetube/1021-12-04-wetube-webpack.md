@@ -1,9 +1,15 @@
 ---
 permalink: /wetube/wetube-webpack
 title: "Webpack"
-date: 2021-12-04T13:13-14:02
-categories:
-  - wetube
+categories: wetube
+tags: JavaScript Wetube Project
+
+toc: true
+toc_sticky: true
+
+
+date: 2022-02-15
+last_modified_at: 2022-02-15
 ---
 
 ## WebPack ?

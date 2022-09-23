@@ -1,8 +1,15 @@
 ---
 permalink: /javascript/infinite-scroll
 title: "Js로 Infinite Scroll 구현"
-date: 2021-11-13T14:12-14:12
 categories: Javascript
+tags: JavaScript
+
+toc: true
+toc_sticky: true
+
+
+date: 2022-04-20
+last_modified_at: 2020-04-20
 ---
 
 ### JavaScript로 Infinite Scroll 구현하기

@@ -1,9 +1,15 @@
 ---
 permalink: /wetube/wetube-mongo
 title: "Wetube-MongoDB"
-date: 2021-11-28T00:11-02:11
-categories:
-  - wetube
+categories: wetube
+tags: JavaScript Wetube Project
+
+toc: true
+toc_sticky: true
+
+
+date: 2022-02-05
+last_modified_at: 2022-02-05
 ---
 
 ### `MongoDB`

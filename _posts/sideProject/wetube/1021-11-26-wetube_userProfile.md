@@ -1,9 +1,15 @@
 ---
 permalink: /wetube/wetube-userProfile
 title: "Template Engine - Pug"
-date: 2021-12-04T10:04-02:03
-categories:
-  - wetube
+categories: wetube
+tags: JavaScript Wetube Project
+
+toc: true
+toc_sticky: true
+
+
+date: 2022-02-03
+last_modified_at: 2022-02-03
 ---
 
 ### `USERPROFILE`

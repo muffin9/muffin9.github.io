@@ -1,9 +1,15 @@
 ---
 permalink: /wetube/wetube-auth
 title: "Wetube-Authentication"
-date: 2021-12-02T04:12-04:08
-categories:
-  - wetube
+categories: wetube
+tags: JavaScript Wetube Project
+
+toc: true
+toc_sticky: true
+
+
+date: 2022-02-12
+last_modified_at: 2022-02-12
 ---
 
 ### USER AUTHENTICATION

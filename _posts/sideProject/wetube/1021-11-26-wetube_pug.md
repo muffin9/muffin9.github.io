@@ -1,9 +1,15 @@
 ---
 permalink: /wetube/wetube-pug
 title: "Template Engine - Pug"
-date: 2021-11-26T09:11-08:01
-categories:
-  - wetube
+categories: wetube
+tags: JavaScript Wetube Project
+
+toc: true
+toc_sticky: true
+
+
+date: 2022-01-24
+last_modified_at: 2022-01-24
 ---
 
 ### `Template Engine - Pug`
