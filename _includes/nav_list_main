@@ -23,6 +23,22 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+        <span class="nav__sub-title">GraphQL</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "GraphQL" %}
+                        <li><a href="/categories/graphql" class="">GraphQL ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        <span class="nav__sub-title">NextJS</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "NextJS" %}
+                        <li><a href="/categories/nextjs" class="">NextJS ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
         <span class="nav__sub-title">DataStructure</span>
             <ul>
                 {% for category in site.categories %}
