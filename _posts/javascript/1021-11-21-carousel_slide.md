@@ -1,7 +1,7 @@
 ---
 permalink: /javascript/carousel
 title: "Carousel Slide"
-categories: Javascript
+categories: JavaScript
 tags: JavaScript
 
 toc: true

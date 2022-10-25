@@ -1,7 +1,7 @@
 ---
 permalink: /javascript/calculate
 title: "Calculate"
-categories: Javascript
+categories: JavaScript
 
 tags: JavaScript
 

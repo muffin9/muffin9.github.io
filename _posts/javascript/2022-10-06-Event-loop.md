@@ -1,7 +1,7 @@
 ---
 permalink: /javascript/eventloop
 title: "EventLoop"
-categories: Javascript
+categories: JavaScript
 
 tags: JavaScript EventLoop
 
